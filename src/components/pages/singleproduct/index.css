@@ -1,0 +1,16 @@
+.card_s{
+    display: flex !important;
+    align-items: center !important;
+    margin-left: 350px !important;
+    margin-top: 100px !important;
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.2);
+    padding: 25px;
+}
+
+.btn{
+    margin-left: 150px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 5px !important;
+}
